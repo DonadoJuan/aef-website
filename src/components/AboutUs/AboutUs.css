@@ -1,0 +1,9 @@
+.section-about-us{
+    background-color: rgba(2, 168, 245, 0.767);
+}
+
+@media (min-width: 750px) {
+    .section-logo {
+        width: 20rem;
+    }
+}
